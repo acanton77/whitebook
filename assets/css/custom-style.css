@@ -1,0 +1,40 @@
+a {
+color:#DA4E02;
+}
+
+#ta {
+background: url(../img/travel.png) no-repeat center top;
+  height: 700px;
+ /*  padding-top: 330px; */
+  text-align: center;
+  background-size: 500px;
+  margin-top: 20px;
+}
+
+#ta h1 {
+font-size:70px;
+color: rgba(140, 132, 130, 0.6);
+padding-top: 250px;;
+}
+
+#under-header {
+background-color: #f8f8f8;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+#under-header h4 {
+  border: 2px solid #5A5A5A;
+  padding: 15px;
+
+}
+
+#w {
+  padding-top: 1px;
+}
+
+#f {
+  padding-top: 1px;
+  padding-bottom: 1px;
+
+}
